@@ -1,6 +1,6 @@
 ## Iconduit
 
-Iconduit is a clever JavaScript utility developers can use to easily manage complex PWA web asset manifests in one or multiple projects.
+Iconduit is a Node utility which can easily manage complex PWA web asset manifests across multiple projects.
 
 ### Install & Use
 
@@ -42,6 +42,4 @@ cd ~/Desktop/Node/iconduit/iconduit
 
 #### Smallprint
 
-See the [license] and [attribution] documents for license information.
-[attribution]: ATTRIBUTION.md
-[license]: LICENSE
+See the [license](LICENCE) and [attribution](ATTRIBUTION.md) documents for license information.
